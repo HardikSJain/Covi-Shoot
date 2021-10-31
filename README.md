@@ -15,6 +15,6 @@ A simple python game using pygame module which spreads awareness about getting v
 - Python should be isntalled: ```Python version > 3.6```
 - Pygame should be installed: ```Pygame version > 1.9.5```
 
-###Execute
+### Execute
 
 ```python <file_path>/Covi-Shoot.py```
